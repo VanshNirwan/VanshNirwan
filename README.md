@@ -1,3 +1,4 @@
+![Header](./1634529055714.jpg)
 <h1 align="center">Hi 👋, I'm Vansh Nirwan</h1>
 <h3 align="center">Passionate Software Engineer and Data Analyst with a strong dedication to solving complex technical problems</h3>
 
